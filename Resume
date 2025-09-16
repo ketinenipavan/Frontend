@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Resume</title>
+</head>
+<body>
+  <header>
+      <hr>
+    <h1>Pavan Ketineni</h1>
+      <p><u>Email</u> : ketinenipavan@gmail.com</p>
+      <p><u>Phone</u> : 8179875065</p>
+      <p><u>LinkedIn</u> : <a href="https://www.linkedin.com/in/pavan-ketineni-a7220a352"> LinkedIn Profile</a></p>
+      <p><u>GitHub</u> : <a href="https://github.com/ketinenipavan"> GitHub Profile </a></p>
+      <hr>
+  </header>
+    <h2>About Me</h2>
+    <p>
+      A motivated web developer.Building responsive user interfaces and writing clean, semantic HTML and JavaScript. Quick learner, strong communicator, and team player.
+    </p>
+    <h2>Education</h2>
+        <table border="1">
+        <tr>
+            <th>S.no</th>
+            <th>Education</th>
+            <th>Name of school/college</th>
+            <th>Grade(%)</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>B.Tech</td>
+            <td>Sri vasavi institute of engineering and technology</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Intermediate</td>
+            <td>R.K Junior College</td>
+            <td align="center">89.9 %</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>SSC</td>
+            <td>Z.P.H.School</td>
+            <td align="center">98 %</td>
+        </tr>
+        </table>
+    <h2>Internship Experience</h2>
+      <p>Duration:June 2023 — Aug 2025</p>
+      <ul>
+        <li>google AI-ML internship</li>
+        <li>aws-cloud virtual internship</li>
+        <li>palo alto microship internship</li>
+      </ul>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML5 (semantic markup, forms, accessibility)</li>
+      <li>CSS (fundamentals) — mentioned here as a skill but not used in this file</li>
+      <li>JavaScript (DOM manipulation, fetch API)</li>
+      <li>Version control (Git, GitHub)</li>
+      <li>Communication & teamwork</li>
+    </ul>
+    <h2>Projects</h2>
+      <h3>Personal Portfolio</h3>
+      <p>Developed a portfolio site showcasing projects and blog posts. Built semantic pages and integrated contact form.</p>
+      <h3>To-Do Web App</h3>
+      <p>Created a simple to-do list application with add/edit/delete functionality using plain JavaScript and localStorage.</p>
+    <h2>Certifications & Achievements</h2>
+    <ul>
+      <li>Certificate in Web Development — Online Academy (2024)</li>
+    </ul>
+    <hr>
+  <footer>
+    <p>&copy; <time datetime="2027">2027</time> Pavan Ketineni. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
