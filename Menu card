@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Menu Card</title>
+    <title>Sun-Set Restaurant</title>
     <style>
-      div{max-width: 550px; margin:20px auto}
-      h1{text-align: center;}
+      div{max-width: 550px; margin:20px auto; background-color: wheat}
+      h1{text-align:center;}
       h2{color: Red; border-bottom: 2px solid gray;}
+      h4{font-style:italic;text-align:right}
+      i{text-align:right}
       ul{list-style-type: none;}
       li{padding: 5px 0;}
       .rate{float: right;}
     </style>
   </head>
-  <body style="background-color:orange;">
-    <div>
-      <h1> MENU CARD </h1>
+  <body>
+    <img src="Internal storage/Download/image.png">
+      <h1> Sun-Set Restaurant </h1>
+      <hr>
+      <br>
+      <p>Experience world-class hospitality just steps away from major attractions. gourmet dining, and premium services awaits you.</p>
+      <div>
       <h2>STARTERS</h2>
       <ul>
         <li>Chilli Chicken <span class="rate">Rs 149</span></li>
@@ -34,7 +40,7 @@
       <h2>KEBABS</h2> 
       <ul>
         <li>Chicken Tikka Kebab <span class="rate">Rs 199</span></li>
-        <li>Tandoori Kebab (Hal) <span class="rate">Rs 149</span></li>
+        <li>Tandoori Kebab (Half) <span class="rate">Rs 149</span></li>
         <li>Tandoori Kebab (Full) <span class="rate">Rs 199</span></li>
         <li>Chicken garlic Kebab <span class="rate">Rs 149</span></li>
       </ul>
@@ -59,5 +65,17 @@
         <li>Mid Summer Punch <span class="rate">Rs 199</span></li>
         <li>Treat Mocktail <span class="rate">Rs 149</span></li>
     </div>
+    <h1>Contact</h1>
+    <p><b>Name</b> : K.Pavan</p>
+    <p><b>Mobile</b> : 8179875065</p>
+    <p><b>Address</b> : Sun-Set Restaurant,near XYZ hospital,vijayawada</p>
+    <p><b>E-Mail</b> : ketinenipavan@gmail.com</p>
+    <footer>
+        <br>
+        <hr>
+        <h4>Thank you for visiting...</h4>
+        <br>
+        &copy Sun-Set Restaurant 
+    </footer>
   </body>
 </html>
