@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <ol>
+        <li>AIML</li>
+    
+        <ul><li>AIML(a)</li></ul>
+        </ol>
+    <ol>
+        <li>CSE</li>
+    
+        <ul><li>CSE(a)</li></ul>
+        <ul><li>CSE(b)</li></ul>
+        <ul><li>CSE(c)</li></ul>
+        </ol>
+        <ol>
+            <li>ECE</li>
+        
+        <ul><li>ECE(a)</li></ul>
+        <ul><li>ECE(b)</li></ul>
+        </ol>
+        <ol>
+            <li>CIVIL</li>
+        
+        <ul><li>CIVIL(a)</li></ul>
+        </ol>
+        <ol>
+            <li>MECH</li>
+        
+        <ul><li>MECH(a)</li></ul>
+        </ol>
+</body>
+</html>
