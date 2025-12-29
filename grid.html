@@ -1,0 +1,44 @@
+<html>
+<head>
+    <title>Grid</title>
+    <style>
+        .container{
+            border: 2px solid green;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows:  50px 50px 50px;
+            align-items:center ;
+            align-content: center;
+        }
+        .box{
+            height: 20px;
+            width: 100px;
+            border: 1px solid black;  
+            justify-self: center;
+            
+        }
+        #box-1{
+            grid-row-start: 1;
+            grid-row-end: 3;
+            grid-column-start: 1;
+            grid-column-end: 3;
+            height: 50px;
+            width: 100px;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box" id="box-1">Box-1</div>
+        <div class="box" id="box">Box-2</div>
+        <div class="box" id="box">Box-3</div>
+        <div class="box" id="box">Box-4</div>
+        <div class="box" id="box">Box-5</div>
+        <div class="box" id="box">Box-6</div>
+        <div class="box" id="box">Box-7</div>
+        <div class="box" id="box">Box-8</div>
+        <div class="box" id="box">Box-9</div>
+    </div>
+</body>
+</html>
